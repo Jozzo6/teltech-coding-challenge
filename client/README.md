@@ -1,6 +1,6 @@
 # Frontend
 
-App is availabel on this [link](https://cc-teltech-40c37.web.app) for testing purposes.
+App is available on this [link](https://cc-teltech-40c37.web.app) for testing purposes.
 
 ## Description
 
